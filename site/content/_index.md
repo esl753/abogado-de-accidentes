@@ -1,20 +1,34 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Abogado De Accidente
+subtitle: Orange County, California
+image: img/img_9003.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: ¿Qué hago si he tenido un accidente automovilístico y he resultado herido?
+  text: Accidentes de carros son la principal causa de reclamos por lesiones
+    personales en el Orange County, CA
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
----
+  heading: " Abogada de accidentes del condado de Orange(feminine)"
+  text: >-
+    Asegúrese de que está bien y que cualquier otra persona en el vehículo con
+    usted está a salvo. Además, si es posible, verifique a las otras partes
+    involucradas en el accidente para ver si están bien. Luego, si puede,
+    aléjese del tráfico que se aproxima lo más rápido que pueda. El lugar del
+    accidente en sí mismo puede aumentar las probabilidades de otro accidente.
+    Mantente a salvo en todo momento.
 
+    Llame al 911 y solicite que un oficial de policía se presente en el lugar del accidente.
+
+    Incluso si no hay una emergencia directa después del accidente, debe llamar al departamento de policía local para informar el accidente.
+
+    Tome fotografías de los daños a todos los vehículos involucrados.
+
+    Obtenga la información del seguro y la licencia de conducir de todas las partes involucradas en el accidente.
+products: []
+values:
+  heading: Causas comunes de accidentes automovilísticos en Orange County
+  text: Hay muchas personas que viven y viajan por el Condado de Orange todos los
+    días. Esto significa que van a ocurrir accidentes de vehículos. Sin embargo,
+    hay muchas causas de estos eventos desafortunados. Echemos un vistazo a
+    algunas de las causas comunes de accidentes automovilísticos en el gran
+    estado de California.
+---
